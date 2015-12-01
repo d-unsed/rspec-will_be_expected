@@ -1,4 +1,6 @@
-# Rspec::WillBeExpected
+# Rspec::WillBeExpected (deprecated)
+
+### Use [rspec-has](https://github.com/d-unseductable/rspec-has) instead
 
 [![Dependency Status](https://gemnasium.com/d-unseductable/rspec-will_be_expected.svg)](https://gemnasium.com/d-unseductable/rspec-will_be_expected)
 [![Gem Version](https://badge.fury.io/rb/rspec-will_be_expected.svg)](http://badge.fury.io/rb/rspec-will_be_expected)
